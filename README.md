@@ -31,8 +31,19 @@
 
 ---
 
-### 📌 Projects
-**Projects coming soon** — I will add detailed project pages (code, data, dashboard images) here soon.  
+### 📌 Featured Projects  
+
+#### 🛒 [Superstore Sales Dataset Analysis](https://github.com/Mina-Magdy-22/Superstore-Sales-Dataset)  
+**Task 1 - Elevo Internship**  
+- Analyzed sales and profit trends by category, region, and time period.  
+- Built interactive dashboards for insights using **Excel** and **Power BI**.  
+- Applied data cleaning and transformation techniques in **Python (Pandas)**.  
+
+#### 🚢 [Exploratory Data Analysis on Titanic Dataset](https://github.com/Mina-Magdy-22/Exploratory-Data-Analysis-on-Titanic-dataset)  
+**Task 2 - Elevo Internship**  
+- Performed EDA to identify patterns in passenger survival rates.  
+- Visualized trends using **Matplotlib** and **Seaborn** (bar plots, heatmaps).  
+- Applied data preprocessing and feature exploration in **Python**.  
 
 ---
 
