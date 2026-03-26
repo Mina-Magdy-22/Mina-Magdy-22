@@ -52,8 +52,6 @@
 ---
 
 ### 📊 GitHub Stats  
-![Mina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mina-Magdy-22&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mina-Magdy-22&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mina-Magdy-22&theme=tokyonight&hide_border=true)
 
 ---
