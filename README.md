@@ -95,7 +95,7 @@ A deep-dive EDA project uncovering survival patterns across demographics, ticket
 
 A full ML pipeline to build a reliable price-prediction baseline for used cars, with strong emphasis on **preventing data leakage** and providing a reproducible, transparent workflow.
 
-**Dataset:** `Autos.csv` — vehicle attributes (brand, model, yearOfRegistration, powerPS, kilometer, fuelType, gearbox, notRepairedDamage, price, etc.) | **Target:** `price`
+**Dataset:** `Autos.csv`, vehicle attributes (brand, model, yearOfRegistration, powerPS, kilometer, fuelType, gearbox, notRepairedDamage, price, etc.) | **Target:** `price`
 
 | Stage | What I Did | Tools Used |
 |---|---|---|
@@ -115,7 +115,7 @@ A full ML pipeline to build a reliable price-prediction baseline for used cars, 
 | Linear Regression (baseline) | ≈ 0.55 | ≈ 1,844 |
 | **Random Forest (best)** | **≈ 0.875** | - |
 
-> ⚠️ Diagnostics indicate heteroscedastic residuals — robust losses or target transforms recommended for production.
+> ⚠️ Diagnostics indicate heteroscedastic residuals - robust losses or target transforms recommended for production.
 
 **✅ Engineering Best Practices Applied:**
 - LOOCV brand/model encoding computed excluding the current row (CV-safe)
@@ -128,8 +128,6 @@ A full ML pipeline to build a reliable price-prediction baseline for used cars, 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-
 
 <br/><br/>
 
